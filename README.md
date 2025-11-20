@@ -22,3 +22,12 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+## 📬 Contact & Links
+
+| 아이콘 | 설명 | 링크 |
+| :---: | :---: | :---: |
+| ✉️ | **Email** | [jooms0212@naver.com] |
+| 🔗 | **Blog** | [https://velog.io/@jooms0212/posts] |
+| 👔 | **LinkedIn** | [본인 LinkedIn 프로필 URL] |
+| 💻 | **GitHub Profile** | https://github.com/jooms0212 |
