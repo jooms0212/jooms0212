@@ -29,5 +29,5 @@
 | :---: | :---: | :---: |
 | ✉️ | **Email** | [jooms0212@naver.com] |
 | 🔗 | **Blog** | [https://velog.io/@jooms0212/posts] |
-| 👔 | **LinkedIn** | [본인 LinkedIn 프로필 URL] |
+| 👔 | **Portfolio** | [URL] |
 | 💻 | **GitHub Profile** | https://github.com/jooms0212 |
