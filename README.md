@@ -69,16 +69,17 @@
 | 아이콘 | 설명 | 링크 |
 | :---: | :---: | :--- |
 | ✉️ | **Email** | jooms0212@naver.com |
-| 🔗 | **Blog** | https://velog.io/@jooms0212/posts |
+| 🔗 | **Blog** | <div style="text-align: left; margin-top: 8px;">
+  <a href="https://velog.io/@jooms0212/posts">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white">
+  </a>
+</div> |
 | 👔 | **Portfolio** | URL (추후 업데이트 예정) |
 | 💻 | **GitHub Profile** | https://github.com/jooms0212 |
 
 <div style="text-align: left; margin-top: 8px;">
   <a href="https://velog.io/@jooms0212/posts">
     <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white">
-  </a>
-  <a href="https://www.notion.so">
-    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
   </a>
 </div>
 
