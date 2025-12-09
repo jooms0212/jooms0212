@@ -9,8 +9,8 @@
 
 백엔드 개발자를 목표로 학습하며, 일정 관리 및 ERP 도메인에 관심을 가지고 프로젝트를 진행하고 있습니다.  
 협업과 커뮤니케이션을 중요하게 생각하며, 사용자가 편리하게 사용할 수 있는 서비스를 만드는 것을 지향합니다.
-
-
+<br>
+<br>
 
 ---
 
@@ -19,17 +19,16 @@
 | 프로젝트 경험 | 내용 |
 | :--- | :--- |
 | **Planix (todolist schedule planner)** | todolist schedule planner를 웹 서버에 올려 배포하고, 일정 관리/공휴일 연동/공유 기능 등을 구현한 경험이 있습니다. |
-
-
-
+<br>
+<br>
 ---
 
 ## 🎯 목표 및 관심사
 
 - **백엔드 엔지니어**에 관심이 많으며, Java, Spring Framework 기반의 **API 설계**와 **성능 최적화**에 집중하고 싶습니다.
 - 생산·원가·수출입 등 실제 업무 도메인을 반영한 서비스를 설계하고, 안정적으로 운영할 수 있는 백엔드 개발자로 성장하는 것이 목표입니다.
-
-
+<br>
+<br>
 
 ---
 
@@ -53,8 +52,8 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">
 </div>
-
-
+<br>
+<br>
 
 ---
 
@@ -66,7 +65,7 @@
 | ♾️ | **Blog** | <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"> |
 | 👔 | **Portfolio** | URL (추후 업데이트 예정) |
 | 💻 | **GitHub Profile** | https://github.com/jooms0212 |
+<br>
 
-
-
+<br>
 ---
