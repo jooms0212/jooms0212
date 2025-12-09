@@ -21,7 +21,7 @@
 | **Planix (todolist schedule planner)** | todolist schedule planner를 웹 서버에 올려 배포하고, 일정 관리/공휴일 연동/공유 기능 등을 구현한 경험이 있습니다. |
 <br>
 <br>
----
+
 
 ## 🎯 목표 및 관심사
 
