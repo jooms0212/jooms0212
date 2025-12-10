@@ -63,7 +63,7 @@
 | :---: | :---: | :--- |
 | ✉️ | **Email** | jooms0212@naver.com |
 | ♾️ | **Blog** | <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"> |
-| 👔 | **Portfolio** | URL (추후 업데이트 예정) |
+| 👔 | **Portfolio** | https://groovy-waterfall-5bf.notion.site/23efd49c12558066b26ec68597424a99?source=copy_link |
 | 💻 | **GitHub Profile** | https://github.com/jooms0212 |
 <br/>
 <br/>
